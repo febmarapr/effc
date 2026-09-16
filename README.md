@@ -1,2 +1,2 @@
 # effc - easy fastfetch config
-effc is a CLI tool to help you edit your fastfetch quickly.
+effc is a CLI tool written in rust to help you edit your fastfetch quickly.
